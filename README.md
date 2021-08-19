@@ -1,5 +1,5 @@
 # Operations-on-matrices-using-C
-The following program is about mathematical operations done on matrices using C
+The following program is about mathematical operations like addition, subtraction and transpose on matrices done on matrices using C
 
 #include<stdio.h> 
 
